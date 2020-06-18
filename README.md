@@ -20,6 +20,7 @@ Make sure you disabled this on your google account.
 
 ![](images/image.JPG)
 
+And turn on "less secure app"
 ![](images/image(2).JPG)
 
 
