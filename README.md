@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## How to use
 
-[](images/image(4).JPG)
+[](https://github.com/zenqiwp/savedatstealer/blob/master/images/image(4).JPG)
 
 ## Note
 Make sure you disabled this on your google account.
