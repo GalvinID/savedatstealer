@@ -9,18 +9,18 @@ Make sure you have [Python 3.x](https://python.org)
 ```bash
 pip install -r requirements.txt
 ```
-[](images/image(3).jpg)
+[](images/image(3).JPG)
 
 ## How to use
 
-[](images/image(4).jpg)
+[](images/image(4).JPG)
 
 ## Note
 Make sure you disabled this on your google account.
 
-[](images/image.jpg)
+[](images/image.JPG)
 
-[](images/image(2).jpg)
+[](images/image(2).JPG)
 
 
 ## License
