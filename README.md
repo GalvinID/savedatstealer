@@ -9,18 +9,18 @@ Make sure you have [Python 3.x](https://python.org)
 ```bash
 pip install -r requirements.txt
 ```
-[](images/image(3).JPG)
+![](images/image(3).JPG)
 
 ## How to use
 
-[](https://github.com/zenqiwp/savedatstealer/blob/master/images/image(4).JPG)
+![](https://github.com/zenqiwp/savedatstealer/blob/master/images/image(4).JPG)
 
 ## Note
 Make sure you disabled this on your google account.
 
-[](images/image.JPG)
+![](images/image.JPG)
 
-[](images/image(2).JPG)
+![](images/image(2).JPG)
 
 
 ## License
