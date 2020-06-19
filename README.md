@@ -1,6 +1,6 @@
 # Save Stealer
 
-a first save.dat stealer written in python by Zenqi. For educational purposes only. I must not involve in any illegal activities you have done. Feel free to join my [discord server](ttps://discord.gg/qfJUWpr) if you have a problem.
+a save.dat stealer written in python by Zenqi using SMTP server. For educational purposes only. I must not involve in any illegal activities you have done. Feel free to join my [discord server](ttps://discord.gg/qfJUWpr) if you have a problem.
 
 ## Requirements
 
