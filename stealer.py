@@ -28,8 +28,7 @@ on any illegal activities you have done
 ####### Growtopia Sav.dat Stealer #######
 
 '''
-
-First growtopia save.dat stealer written in python.
+A growtopia save.dat stealer written in python.
 
 Before using, make sure you have the following requirements
 
