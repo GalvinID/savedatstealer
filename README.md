@@ -1,4 +1,5 @@
 # Save Stealer
+> I stopped developing this repo for a month already. 
 
 a save.dat stealer written in python by Zenqi using SMTP server. For educational purposes only. I must not involve in any illegal activities you have done. Feel free to join my [discord server](ttps://discord.gg/qfJUWpr) if you have a problem.
 
